@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="docs">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../rest-assured-4.1.1-dist/docs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../rest-assured-4.1.1-dist/docs" recursive="false" type="SOURCES" />
+  </library>
+</component>

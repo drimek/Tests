@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54962718-3b5f-458e-9cd6-6d81b8135587" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="opi-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MainPageTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GlobalMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="119" selection-start-line="119" selection-end-line="119" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inicjalizujWebDriver</find>
+      <find>incog</find>
+      <find>ilosc</find>
+      <find>initElements</find>
+      <find>zadanie1</find>
+      <find>wybierzLiczbyParzysteZeZbioru</find>
+      <find>pustyKoszyk</find>
+      <find>stronaGlowna</find>
+      <find>przyciskDodajDoKoszykaDlaPierwszegoPopular</find>
+      <find>czekajAzElementBedzieKlikalnyIKliknij</find>
+      <find>ustawKursorNadElementem</find>
+      <find>verifyRightQuantityNumberOnCartsStripeDisplayed</find>
+      <find>getFromCart</find>
+      <find>getNumberOfProductsInCart</find>
+      <find>syste</find>
+      <find>system</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cos.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/metodyGlobalne_Testy.java" />
+        <option value="$PROJECT_DIR$/opiRekrutacja.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/zadanie1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/zadanie1_Testy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/metodyGlobalne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/klasaKonfiguracyjna.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stronaGlowna_Testy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stronaGlowna.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GlobalData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DashboardPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LoginPageData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserGameListPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GlobalData2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RESTTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CheckLoginFunctionality.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GlobalMethods.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MainPageTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rekrutacjaopi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rekrutacjaopi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="514" />
+    <option name="y" value="143" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="opi-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opi-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opi-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opi-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opi-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opi-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opi-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opi-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opi-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opi-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opi-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opi-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="opi-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opi-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tomek/opi-master" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.48045978" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sebini\Downloads\opi-master\opi-master\target\generated-sources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.MainPageTests,testEmptyCart and 2 more (2)">
+    <configuration name="BaseTest.jakistamtest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rekrutacjaopi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BaseTest" />
+      <option name="METHOD_NAME" value="jakistamtest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTests,testEmptyCart and 2 more (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rekrutacjaopi" />
+      <option name="TEST_OBJECT" value="PATTERN" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="MainPageTests,testEmptyCart" />
+        <pattern testClass="MainPageTests,testAddingToCart" />
+        <pattern testClass="MainPageTests,removingFromCart" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTests,testEmptyCart and 2 more (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rekrutacjaopi" />
+      <option name="TEST_OBJECT" value="PATTERN" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="MainPageTests,testEmptyCart" />
+        <pattern testClass="MainPageTests,testAddingToCart" />
+        <pattern testClass="MainPageTests,testRemovingFromCart" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTests,testEmptyCart and 2 more" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rekrutacjaopi" />
+      <option name="TEST_OBJECT" value="PATTERN" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="MainPageTests,testEmptyCart" />
+        <pattern testClass="MainPageTests,testAddingToCart" />
+        <pattern testClass="MainPageTests,RemoveFirstFromCart" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RESTTests.RestTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rekrutacjaopi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RESTTests" />
+      <option name="METHOD_NAME" value="RestTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZestawTestow" type="TestNG">
+      <module name="rekrutacjaopi" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/opiRekrutacja.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MainPageTests,testEmptyCart and 2 more (2)" />
+        <item itemvalue="TestNG.MainPageTests,testEmptyCart and 2 more (1)" />
+        <item itemvalue="TestNG.MainPageTests,testEmptyCart and 2 more" />
+        <item itemvalue="TestNG.BaseTest.jakistamtest" />
+        <item itemvalue="TestNG.RESTTests.RestTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54962718-3b5f-458e-9cd6-6d81b8135587" name="Default Changelist" comment="" />
+      <created>1565110922262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565110922262</updated>
+      <workItem from="1565110927504" duration="4424000" />
+      <workItem from="1565116011202" duration="19797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(1) - 2019.10.03 at 18h 08m 26s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(1) - 2019.10.03 at 18h 34m 02s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(1) - 2019.10.03 at 18h 39m 13s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(1) - 2019.10.03 at 18h 41m 18s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(1) - 2019.10.03 at 19h 02m 54s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(1) - 2019.10.04 at 12h 49m 30s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(1) - 2019.10.04 at 12h 50m 16s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(1) - 2019.10.04 at 12h 51m 41s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(2) - 2019.10.04 at 12h 53m 42s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainPageTests,testEmptyCart_and_2_more_(2) - 2019.10.04 at 13h 06m 02s.xml">
+      <configuration name="MainPageTests,testEmptyCart and 2 more (2)" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24221000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.43134087" visible="true" weight="0.15618336" />
+      <window_info id="Structure" order="1" sideWeight="0.5686591" side_tool="true" visible="true" weight="0.15618336" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.33279485" side_tool="true" weight="0.1913646" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.8949893" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.10501066" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven" order="8" visible="true" weight="0.036247335" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.43295637" visible="true" weight="0.15458423" />
+      <window_info id="Structure" order="1" sideWeight="0.5670436" side_tool="true" visible="true" weight="0.15458423" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.33279485" side_tool="true" weight="0.1913646" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.8949893" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.10501066" side_tool="true" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cos.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class" />
+    <entry file="file://$PROJECT_DIR$/rekrutacjaopi.iml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/Assert.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/klasaKonfiguracyjna.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/zadanie1_Testy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DashboardPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadanie1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/metodyGlobalne.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stronaGlowna_Testy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/stronaGlowna.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/RESTTests.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="202" column="18" selection-start-line="202" selection-start-column="18" selection-end-line="202" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CheckLoginFunctionality.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/LoginPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserGameListPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/LoginPageData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GlobalData2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GlobalData.java" />
+    <entry file="file://$PROJECT_DIR$/opiRekrutacja.xml" />
+    <entry file="file://$PROJECT_DIR$/untitled/untitled.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GlobalMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MainPageTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>rekrutacjaopi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48045978" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>rest-assured-4.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48045978" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
